@@ -1,0 +1,30 @@
+{
+  "name": "pixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulugbek01/Pixer.git"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "-D",
+    "tailwindcss"
+  ],
+  "author": "npx tailwindcss init",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ulugbek01/Pixer/issues"
+  },
+  "homepage": "https://github.com/Ulugbek01/Pixer#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
+  }
+}
